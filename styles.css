@@ -738,11 +738,11 @@ section,.section{
 }
 
 :root{
-  --bg:#121a2c;
-  --bg-2:#1a2340;
-  --primary:#375dfb;
-  --primary-2:#6aa8ff;
-  --accent:#b8d4ff;
+  --bg:#0d1830;
+  --bg-2:#162346;
+  --primary:#275df5;
+  --primary-2:#52b6ff;
+  --accent:#91d8ff;
 }
 
 .topbar-actions{
